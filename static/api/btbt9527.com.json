@@ -1,0 +1,17 @@
+{
+	"bodies": [],
+	"headers": [{
+		"key": "Cookie",
+		"value": "cookie"
+	}],
+	"host": "btbt9527.com",
+	"isNotification": false,
+	"method": "POST",
+	"name": "BT9527电影天堂",
+	"result": {
+		"failure": "未定义|非法",
+		"repete": "已经签到过|今天已经签过啦",
+		"success": "签到成功|成功签到|今日排名"
+	},
+	"url": "https://btbt9527.com/ax_sign.htm"
+}

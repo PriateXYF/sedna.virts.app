@@ -1,0 +1,17 @@
+{
+	"bodies": [],
+	"headers": [{
+		"key": "Cookie",
+		"value": "cookie"
+	}],
+	"host": "mp4fan.org",
+	"isNotification": false,
+	"method": "GET",
+	"name": "高清MP4",
+	"result": {
+		"failure": "未定义|非法",
+		"repete": "xxxxxxxxx",
+		"success": "用户名|uid-用户数字编号"
+	},
+	"url": "https://mp4fan.org"
+}

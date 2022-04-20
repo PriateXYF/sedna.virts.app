@@ -1,0 +1,23 @@
+{
+	"bodies": [{
+		"key": "action",
+		"value": "\"user.checkin\""
+	}],
+	"headers": [{
+		"key": "Cookie",
+		"value": "cookie"
+	}, {
+		"key": "authority",
+		"value": "\"www.dmoe.in\""
+	}],
+	"host": "www.dmoe.in",
+	"isNotification": false,
+	"method": "POST",
+	"name": "暗萌",
+	"result": {
+		"failure": "未定义|非法",
+		"repete": "已经签过到|u5df2",
+		"success": ":0,|奖励"
+	},
+	"url": "https://www.dmoe.in/wp-content/themes/modown/action/user.php"
+}

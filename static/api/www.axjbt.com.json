@@ -1,0 +1,20 @@
+{
+	"bodies": [],
+	"headers": [{
+		"key": "Cookie",
+		"value": "cookie"
+	}, {
+		"key": "Authority",
+		"value": "\"www.axjbt.com\""
+	}],
+	"host": "www.axjbt.com",
+	"isNotification": false,
+	"method": "GET",
+	"name": "爱笑聚",
+	"result": {
+		"failure": "未定义|非法",
+		"repete": "xxxxxxxxxxxxxx",
+		"success": "用户数字编号_small|u-用户数字编号"
+	},
+	"url": "https://www.axjbt.com"
+}
