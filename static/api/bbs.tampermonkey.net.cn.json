@@ -1,0 +1,32 @@
+{
+	"bodies": [{
+		"key": "qdmode",
+		"value": "3"
+	}, {
+		"key": "qdxq",
+		"value": "\"kx\""
+	}, {
+		"key": "formhash",
+		"value": "document.querySelector('input[name=formhash]').value"
+	}, {
+		"key": "todaysay",
+		"value": "\"\""
+	}, {
+		"key": "fastreply",
+		"value": "0"
+	}],
+	"headers": [{
+		"key": "Cookie",
+		"value": "cookie"
+	}],
+	"host": "bbs.tampermonkey.net.cn",
+	"isNotification": false,
+	"method": "POST",
+	"name": "油猴中文网",
+	"result": {
+		"failure": "未定义|非法",
+		"repete": "已签|已经签到|签过到",
+		"success": "签到成功|奖励"
+	},
+	"url": "https://bbs.tampermonkey.net.cn/plugin.php?id=dsu_paulsign:sign&operation=qiandao&infloat=1&inajax=1"
+}
