@@ -1,0 +1,20 @@
+{
+	"bodies": [{
+		"key": "token",
+		"value": "\"glados_network\""
+	}],
+	"headers": [{
+		"key": "Cookie",
+		"value": "cookie"
+	}],
+	"host": "glados.rocks",
+	"isNotification": false,
+	"method": "POST",
+	"name": "GLaDOS",
+	"result": {
+		"failure": "error",
+		"repete": "Please Try Tomorrow",
+		"success": "Checkin"
+	},
+	"url": "https://glados.rocks/api/user/checkin"
+}
