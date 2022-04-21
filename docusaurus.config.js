@@ -1,28 +1,29 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Sedna',
+  tagline: '基于 Leancloud 的自动化签到工具',
+  url: 'https://sedna.virts.app',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'PriateXYF', // Usually your GitHub org/user name.
+  projectName: 'Sedna', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Sedna',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Sedna',
+        src: 'img/logo.png',
       },
       links: [
         {
-          to: 'docs/doc1',
+          to: 'docs/introduction/readme',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: '文档',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'blog', label: '博客', position: 'left'},
+        {to: 'changelog', label: '更新日志', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/PriateXYF/Sedna',
           label: 'GitHub',
           position: 'right',
         },
@@ -32,37 +33,44 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: '文档',
           items: [
             {
-              label: 'Style Guide',
+              label: '入门',
               to: 'docs/doc1',
             },
             {
-              label: 'Second Doc',
+              label: '浏览器拓展',
+              to: 'docs/doc2',
+            },
+            {
+              label: '云端模板',
+              to: 'docs/doc2',
+            },{
+              label: '更新日志',
               to: 'docs/doc2',
             },
           ],
         },
         {
-          title: 'Community',
+          title: '项目',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Sedna',
+              href: 'https://github.com/PriateXYF/Sedna',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Sedna-Extension',
+              href: 'https://github.com/PriateXYF/Sedna-Extension',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Sedna-Docs',
+              href: 'https://github.com/PriateXYF/sedna.virts.app',
             },
           ],
         },
         {
-          title: 'More',
+          title: '我的其他项目',
           items: [
             {
               label: 'Blog',
@@ -75,7 +83,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Sedna, Inc. Built with Docusaurus.`,
     },
   },
   presets: [

@@ -1,6 +1,6 @@
 {
-  "name": "docusaurus-2",
-  "version": "0.0.0",
+  "name": "Sedna",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "docusaurus start",

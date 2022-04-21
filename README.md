@@ -1,19 +1,7 @@
-# Docusaurus 2
+# Sedna 说明文档
 
-This directory is a brief example of a [Docusaurus](https://v2.docusaurus.io) site that can be deployed to Vercel with zero configuration.
+基于 Leancloud 的自动化签到工具
 
-## Deploy Your Own
-
-Deploy your own Docusaurus project with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/docusaurus-2&template=docusaurus-2)
-
-_Live Example: https://docusaurus-2-template.vercel.app_
-
-### How We Created This Example
-
-To get started with Docusaurus on Vercel, you can use the [Docusaurus CLI](https://v2.docusaurus.io/docs/installation#scaffold-project-website) to initialize the project:
-
-```shell
-$ npx @docusaurus/init@next init my-website classic
-```
+* [Sedna](https://github.com/PriateXYF/Sedna)
+* [Sedna-Extension](https://github.com/PriateXYF/Sedna-Extension)
+* [文档地址](https://sedna.virts.app/)
