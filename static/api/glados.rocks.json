@@ -1,14 +1,11 @@
 {
 	"bodies": [{
 		"key": "token",
-		"value": "\"glados_network\""
+		"value": "\"glados.network\""
 	}],
 	"headers": [{
 		"key": "Cookie",
 		"value": "cookie"
-	},{
-		"key": "Content-Type",
-		"value": "\"application/x-www-form-urlencoded\""
 	}],
 	"host": "glados.rocks",
 	"isNotification": false,
