@@ -6,6 +6,9 @@
 	"headers": [{
 		"key": "Cookie",
 		"value": "cookie"
+	},{
+		"key": "Content-Type",
+		"value": "\"application/x-www-form-urlencoded\""
 	}],
 	"host": "glados.rocks",
 	"isNotification": false,
